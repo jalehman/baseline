@@ -1,6 +1,8 @@
 pom.xml
 *jar
-/lib/
-/classes/
-/targets/
+/server/lib/
+/server/classes/
+/server/targets/
+/webapp/vendor/
+/webapp/node_modules/
 .lein-deps-sum
